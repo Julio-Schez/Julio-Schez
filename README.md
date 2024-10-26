@@ -1,6 +1,6 @@
 # ¡Hola! Soy Julio 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante de maestría en Ciencias de la Computación y Tecnologías, apasionado por el Internet de las Cosas (IoT) y la Agricultura de Precisión. Actualmente resido en el estado de Morelos, México, donde desarrollo proyectos tecnológicos que integran la computación y la innovación en el campo agrícola.
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante de maestría en Ciencias de la Computación, apasionado por el Internet de las Cosas (IoT) y la Agricultura de Precisión. Actualmente resido en el estado de Morelos, México, donde desarrollo proyectos tecnológicos que integran la computación y la innovación en el campo agrícola.
 
 ## Acerca de mí
 
